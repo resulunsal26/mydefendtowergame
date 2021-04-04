@@ -4,6 +4,8 @@
 
 game controller
 mouse left click : set tower
+
+
 Bu oyun strateji türünde bir oyundur.Oyun amacımız düşman bölgesinde oluşturulan araçların bizim yönetim binasına gelmesini engellemek.En fazla 4 adet kule yerleştiriyoruz.Kuleleri bazı yerlere koymamız engelli.Oyun içi görüntüler "game pictures " adlı dosyada mevcuttur.Oyunnun kendisi output dosyasında mevcuttur.
 
 
